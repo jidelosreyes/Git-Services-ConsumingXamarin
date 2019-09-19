@@ -1,0 +1,10 @@
+E:\DatosJose\Proyectos C#\ServicioRest\Servicios\EF.Cargos\bin\Release\EF.Cargos.dll.config
+E:\DatosJose\Proyectos C#\ServicioRest\Servicios\EF.Cargos\bin\Release\EF.Cargos.dll
+E:\DatosJose\Proyectos C#\ServicioRest\Servicios\EF.Cargos\bin\Release\EF.Cargos.pdb
+E:\DatosJose\Proyectos C#\ServicioRest\Servicios\EF.Cargos\bin\Release\EntityFramework.dll
+E:\DatosJose\Proyectos C#\ServicioRest\Servicios\EF.Cargos\bin\Release\EntityFramework.SqlServer.dll
+E:\DatosJose\Proyectos C#\ServicioRest\Servicios\EF.Cargos\bin\Release\EntityFramework.xml
+E:\DatosJose\Proyectos C#\ServicioRest\Servicios\EF.Cargos\bin\Release\EntityFramework.SqlServer.xml
+E:\DatosJose\Proyectos C#\ServicioRest\Servicios\EF.Cargos\obj\Release\EF.Cargos.dll
+E:\DatosJose\Proyectos C#\ServicioRest\Servicios\EF.Cargos\obj\Release\EF.Cargos.pdb
+E:\DatosJose\Proyectos C#\ServicioRest\Servicios\EF.Cargos\obj\Release\EF.Cargos.csprojResolveAssemblyReference.cache

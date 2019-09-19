@@ -1,0 +1,9 @@
+E:\DatosJose\Proyectos C#\ServicioRest\Servicios\EF.Cargos\bin\Debug\EF.Cargos.dll.config
+E:\DatosJose\Proyectos C#\ServicioRest\Servicios\EF.Cargos\bin\Debug\EF.Cargos.dll
+E:\DatosJose\Proyectos C#\ServicioRest\Servicios\EF.Cargos\bin\Debug\EF.Cargos.pdb
+E:\DatosJose\Proyectos C#\ServicioRest\Servicios\EF.Cargos\bin\Debug\EntityFramework.dll
+E:\DatosJose\Proyectos C#\ServicioRest\Servicios\EF.Cargos\bin\Debug\EntityFramework.SqlServer.dll
+E:\DatosJose\Proyectos C#\ServicioRest\Servicios\EF.Cargos\bin\Debug\EntityFramework.xml
+E:\DatosJose\Proyectos C#\ServicioRest\Servicios\EF.Cargos\bin\Debug\EntityFramework.SqlServer.xml
+E:\DatosJose\Proyectos C#\ServicioRest\Servicios\EF.Cargos\obj\Debug\EF.Cargos.dll
+E:\DatosJose\Proyectos C#\ServicioRest\Servicios\EF.Cargos\obj\Debug\EF.Cargos.pdb

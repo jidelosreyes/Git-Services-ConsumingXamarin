@@ -1,0 +1,32 @@
+﻿@{
+    Page.Title = "Cargos";
+    //Layout = "Your Layout Page goes here";
+    Layout = "~/_SiteLayout.cshtml";
+}
+
+<div>
+    <table style="width: 100%">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Codigo Cargo</th>
+                <th>Nombre</th>
+                <th>Estado</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td data-bind="text: Id"></td>
+                <td data-bind="text: CodCargo"></td>
+                <td data-bind="text: Nombre"></td>
+                <td data-bind="text: Estado"></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+@section scripts{
+    <script>
+        ko.applayBindings(new Listar());
+    </script>
+}
